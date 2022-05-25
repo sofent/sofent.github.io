@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as t}from"./app.2a04e82f.js";const v='{"title":"\u8BBE\u7F6Evitepress\u8F93\u51FA\u76EE\u5F55","description":"","frontmatter":{},"headers":[],"relativePath":"blog/outdir.md"}',e={},o=t("",6),p=[o];function r(c,i,d,u,l,k){return a(),n("div",null,p)}var f=s(e,[["render",r]]);export{v as __pageData,f as default};
