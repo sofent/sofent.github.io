@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as r,e as o}from"./app.b7621b69.js";const b='{"title":"Sofent\u7684Blog","description":"","frontmatter":{},"headers":[],"relativePath":"index.md"}',a={},n=o("",4),i=[n];function l(s,_,c,d,f,p){return r(),t("div",null,i)}var u=e(a,[["render",l]]);export{b as __pageData,u as default};
