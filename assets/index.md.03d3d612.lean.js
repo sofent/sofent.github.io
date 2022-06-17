@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as r,e as a}from"./app.78842fd5.js";const b=JSON.parse('{"title":"Sofent\u7684Blog","description":"","frontmatter":{},"headers":[],"relativePath":"index.md"}'),o={name:"index.md"},n=a("",4),i=[n];function l(s,_,c,d,p,f){return r(),t("div",null,i)}var u=e(o,[["render",l]]);export{b as __pageData,u as default};
