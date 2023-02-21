@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as e,e as p}from"./app.99163862.js";const D=JSON.parse('{"title":"解决升级硬盘导致存储空间不对的问题","description":"","frontmatter":{},"headers":[],"relativePath":"nas/fixstorage.md"}'),n={name:"nas/fixstorage.md"},o=p("",10),t=[o];function l(c,d,r,i,C,T){return e(),a("div",null,t)}const y=s(n,[["render",l]]);export{D as __pageData,y as default};

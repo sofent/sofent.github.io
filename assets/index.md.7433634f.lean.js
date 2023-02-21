@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,e as r}from"./app.99163862.js";const b=JSON.parse('{"title":"Sofent的Blog","description":"","frontmatter":{},"headers":[],"relativePath":"index.md"}'),o={name:"index.md"},n=r("",4),i=[n];function l(s,_,c,d,f,p){return a(),t("div",null,i)}const u=e(o,[["render",l]]);export{b as __pageData,u as default};
